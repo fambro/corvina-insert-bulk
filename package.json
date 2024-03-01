@@ -1,7 +1,6 @@
 {
   "name": "corvina-insert-bulk",
   "version": "0.0.1",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "send": "node index.js",
@@ -15,5 +14,7 @@
   "dependencies": {
     "commander": "^12.0.0",
     "undici": "^6.6.2"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
