@@ -1,13 +1,13 @@
 {
   "name": "corvina-insert-bulk",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "index.js",
   "scripts": {
     "send": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "corvina-insert-bulk": "./index.js"
+    "corvina-insert-bulk": "node ./index.js"
   },
   "author": "",
   "license": "ISC",
